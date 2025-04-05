@@ -68,7 +68,7 @@ pipeline {
                         git commit -m "Updated environment variables"
                         
                         echo "Pushing changes to github: "
-                        git push https://github.com/Mikey/Three-Tier-App-Deployment-On-AWS-EKS-with-ArgoCD.git main
+                        git push https://github.com/Mikey824/Three-Tier-App-Deployment-On-AWS-EKS-with-ArgoCD.git main
                     '''
                     }
                 }
